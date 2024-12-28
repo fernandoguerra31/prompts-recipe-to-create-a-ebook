@@ -16,6 +16,9 @@
     width="400"  
 />
 </p>
+#LINK DO ARTIGO:
+
+https://github.com/fernandoguerra31/prompts-recipe-to-create-a-ebook/blob/main/Mente%20S%C3%A3%2C%20Corpo%20Ativo1.pdf
 
 # Projeto EBOOK Gerado por I.A.s
 
